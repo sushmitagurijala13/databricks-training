@@ -1,5 +1,5 @@
 Day 1 - SQL Basics Practice
-📌 Overview
+Overview
 On Day 1, I focused on learning and practicing fundamental SQL concepts using structured queries. The goal was to understand how to retrieve, filter, and analyze data from relational tables.
 
 📂 Files Included
